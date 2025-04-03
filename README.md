@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Eka Nugraha</h1>
-<h3 align="center">I'm Student Computer science from Indonesia</h3>
+<h3 align="center">I'm Student Informatics from Indonesia</h3>
 
 
 
